@@ -166,7 +166,7 @@ ul li {
 }
 
 ul > li::before {
-  content: '* ';
+  content: '➢ ';
   font-weight: bold;
   color: var(--color-primary, #dc143c);
 }

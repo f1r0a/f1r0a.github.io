@@ -14,9 +14,9 @@ These are block equations:
 
 \[ a^*=x-b^* \]
 
-\[
+\(
 a^*=x-b^*
-\]
+\)
 
 These are also block equations:
 
